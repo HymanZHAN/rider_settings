@@ -1,0 +1,29 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://zhanxucong.visualstudio.com/DataStructure_csharp/_git/DataStructure_csharp" />
+          <option name="serverUri" value="https://zhanxucong.visualstudio.com" />
+          <option name="userId" value="e9215ef5-a59f-641e-ba11-76e9018fdcc0" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;7d1a561f-1ca5-44a4-bf17-aa6449473101&quot;,&quot;name&quot;:&quot;zhanxucong&quot;,&quot;url&quot;:&quot;https://zhanxucong.visualstudio.com/_apis/projectCollections/7d1a561f-1ca5-44a4-bf17-aa6449473101&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;C# implementation of Coursera course \&quot;Data Structures\&quot;&quot;,&quot;id&quot;:&quot;afc1b990-7ed7-48ca-b356-f1de61a93a2b&quot;,&quot;name&quot;:&quot;DataStructure_csharp&quot;,&quot;revision&quot;:116,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://zhanxucong.visualstudio.com/_apis/projects/afc1b990-7ed7-48ca-b356-f1de61a93a2b&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;ec686d50-056a-4a42-b473-60fd2d6d7c00&quot;,&quot;name&quot;:&quot;DataStructure_csharp&quot;,&quot;remoteUrl&quot;:&quot;https://zhanxucong.visualstudio.com/DataStructure_csharp/_git/DataStructure_csharp&quot;,&quot;url&quot;:&quot;https://zhanxucong.visualstudio.com/afc1b990-7ed7-48ca-b356-f1de61a93a2b/_apis/git/repositories/ec686d50-056a-4a42-b473-60fd2d6d7c00&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;C# implementation of Coursera course \&quot;Data Structures\&quot;&quot;,&quot;id&quot;:&quot;afc1b990-7ed7-48ca-b356-f1de61a93a2b&quot;,&quot;name&quot;:&quot;DataStructure_csharp&quot;,&quot;revision&quot;:116,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://zhanxucong.visualstudio.com/_apis/projects/afc1b990-7ed7-48ca-b356-f1de61a93a2b&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="$USER_HOME$/Development/MOOC" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//zhanxucong.visualstudio.com/datastructure_csharp/_git/datastructure_csharp" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>
