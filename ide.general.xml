@@ -8,8 +8,8 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
-    <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.mac.file.chooser.native" value="false" />
+    <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="win.editor.thumb.default.alpha.base" value="0" />
     <entry key="win.editor.thumb.default.alpha.delta" value="102" />

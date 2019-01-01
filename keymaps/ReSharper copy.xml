@@ -1,14 +1,9 @@
 <keymap version="1" name="ReSharper copy" parent="ReSharper">
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  <action id="CollapseSelection" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
-  <action id="ChangesView.GroupBy.Directory" />
-  <action id="FileChooser.TogglePathShowing" />
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
-  <action id="ParameterInfo" />
-  <action id="ShowBookmarks" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
