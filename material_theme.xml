@@ -1,10 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="isHighContrast" value="true" />
+    <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="userId" value="-45f10dff:167fce8d717:-8000" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="userId" value="695ab0b3:167240582a6:-8000" />
     <option name="version" value="3.3.0" />
   </component>
 </application>
