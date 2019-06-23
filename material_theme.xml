@@ -1,10 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="1" />
-    <option name="userId" value="695ab0b3:167240582a6:-8000" />
-    <option name="version" value="3.9.4" />
+    <option name="accentColor" value="7ee9db" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="userId" value="5d425419:16b8411eacc:-8000" />
+    <option name="version" value="3.10.0" />
   </component>
 </application>
